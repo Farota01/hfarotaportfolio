@@ -1,0 +1,28 @@
+.footer {
+    background-color: #242323;
+    color: white;
+    padding: 2px;
+    text-align: center;
+  
+    /* Position the footer at the bottom of the page */
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  .links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 10px;
+  }
+  
+  .links a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .links  {
+    text-decoration: underline;
+  }
+  
